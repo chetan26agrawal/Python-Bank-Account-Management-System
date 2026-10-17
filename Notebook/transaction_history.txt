@@ -1,0 +1,12 @@
+2026-10-16 15:37:06 | Account: 1001 | Type: opening deposit | Amount: 10000.00 | 
+2026-10-16 15:39:42 | Account: 1002 | Type: opening deposit | Amount: 10000.00 | 
+2026-10-16 15:39:59 | Account: 1003 | Type: opening deposit | Amount: 200000.00 | 
+2026-10-16 15:41:29 | Account: 1003 | Type: deposit | Amount: 2000.00 | 
+2026-10-16 15:43:27 | Account: 1001 | Type: transfer out | Amount: 5000.00 | To account 1002
+2026-10-16 15:43:27 | Account: 1002 | Type: transfer in | Amount: 5000.00 | From account 1001
+2026-10-16 15:43:51 | Account: 1002 | Type: withdrawal | Amount: 5000.00 | 
+2026-10-16 15:51:21 | Account: 1004 | Type: opening deposit | Amount: 100000.00 | 
+2026-10-16 15:52:08 | Account: 1004 | Type: deposit | Amount: 10000.00 | 
+2026-10-16 15:52:47 | Account: 1004 | Type: withdrawal | Amount: 50000.00 | 
+2026-10-16 15:53:27 | Account: 1004 | Type: transfer out | Amount: 1000.00 | To account 1001
+2026-10-16 15:53:27 | Account: 1001 | Type: transfer in | Amount: 1000.00 | From account 1004
