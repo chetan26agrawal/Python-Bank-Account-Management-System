@@ -203,7 +203,7 @@ These are potential improvements, not necessarily features of the current versio
 
 ## 👨‍💻 Author
 
-**Chetan Agrawal (चेतन अग्रवाल)**
+**Chetan Agrawal**
 
 🎓 **Project:** Python Bank Account Management System
 
